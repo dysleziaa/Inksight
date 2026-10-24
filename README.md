@@ -45,11 +45,3 @@ python main.py
 ```bash
 pytest
 ```
-
-## Project Status
-
-A working Python desktop application. A web version may be added in a future iteration.
-
-## License
-
-No license has been selected yet.
