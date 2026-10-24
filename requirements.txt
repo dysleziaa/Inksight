@@ -1,0 +1,7 @@
+nltk
+textstat
+gensim
+vaderSentiment
+matplotlib
+mysql-connector-python
+python-dotenv
